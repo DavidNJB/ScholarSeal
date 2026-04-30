@@ -66,3 +66,6 @@ soroban contract invoke --id <CONTRACT_ID> \
 - Oracle Integration: Connecting to satellite data to automatically trigger credit minting.
 - Local Anchor Integration: Partnering with regional anchors to allow farmers to off-ramp earnings to local bank accounts.
 - NFT Impact Certificates: Issuing unique tokens for businesses to display as proof of carbon-neutral status.
+
+## License
+This project is licensed under the MIT License.
